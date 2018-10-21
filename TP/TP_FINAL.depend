@@ -1,0 +1,873 @@
+# depslib dependency file v1.0
+1523982457 source:c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1523982457 c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1523982461 source:c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"TP_BIBLIO.h"
+	"conio2.h"
+	"conio.h"
+
+1523982464 c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\tp_biblio.h
+
+1523982457 c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio.h
+	<_mingw.h>
+
+1523982464 source:c:\users\lounes\documents\aouaouche_mechouek_tp1_g2 (v2.3)\tp\tp_biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TP_BIBLIO.h"
+
+1523982457 source:c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1523982457 c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1523982461 source:c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"TP_BIBLIO.h"
+	"conio2.h"
+	"conio.h"
+
+1523982464 c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\tp_biblio.h
+
+1523982457 c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\conio.h
+	<_mingw.h>
+
+1523982464 source:c:\users\lounes\desktop\aouaouche_mechouek_tp1_g2 (v2.3)\tp\tp_biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TP_BIBLIO.h"
+
+1524092766 source:c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\aouaouche_mechouek_tp1_g2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"TP_BIBLIO.h"
+	"conio2.h"
+	"conio.h"
+
+1523978894 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978906 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1523978896 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_config.h
+	"SDL_platform.h"
+
+1523978902 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1523978894 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\begin_code.h
+
+1523978894 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\close_code.h
+
+1523978894 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1523978894 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1523978895 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1523978900 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978910 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1523978905 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978895 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978911 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978902 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978903 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978906 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978895 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1523978905 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1523978899 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978903 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1523978897 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978910 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978898 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978898 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978900 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978903 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978904 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978905 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978907 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978910 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978910 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978885 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2_ttf-2.0.14\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978886 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2_mixer-2.0.2\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978864 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\tp_biblio.h
+
+1523978857 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1523978857 c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\conio.h
+	<_mingw.h>
+
+1523978857 source:c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1523978861 source:c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"TP_BIBLIO.h"
+	"conio2.h"
+	"conio.h"
+
+1523978864 source:c:\users\loune\documents\esi\cp1\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\tp_biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TP_BIBLIO.h"
+
+1524092766 source:c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\aouaouche_mechouek_tp1_g2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"TP_BIBLIO.h"
+	"conio2.h"
+	"conio.h"
+
+1523978894 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978906 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1523978896 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_config.h
+	"SDL_platform.h"
+
+1523978902 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1523978894 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\begin_code.h
+
+1523978894 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\close_code.h
+
+1523978894 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1523978894 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1523978895 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1523978900 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978910 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1523978905 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978895 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978911 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978902 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978903 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978906 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978895 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1523978905 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1523978899 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978903 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1523978897 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978910 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978897 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978898 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978898 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978900 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978899 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978903 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978904 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978905 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978907 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978910 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978910 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2-2.0.8\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978885 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2_ttf-2.0.14\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978886 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\sdl\sdl2_mixer-2.0.2\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1523978864 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\tp_biblio.h
+
+1523978857 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1523978857 c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\conio.h
+	<_mingw.h>
+
+1523978857 source:c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1523978861 source:c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\graphics.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"TP_BIBLIO.h"
+	"conio2.h"
+	"conio.h"
+
+1523978864 source:c:\users\loune\documents\esi\1cp\semestre 2\alsdd\tp\mechouek_aouaouche\aouaouche_mechouek_tp1_g2\tp\tp_biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TP_BIBLIO.h"
+
